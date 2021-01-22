@@ -1,6 +1,6 @@
 ### Hi, Raphael Narasaki here 👋
 
-💥 I'm currently working on @Easynvest and @IterisSoftwareConsulting!
+💥 I'm currently working at @Easynvest and @IterisSoftwareConsulting!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/raphaelnarasaki/)
 
